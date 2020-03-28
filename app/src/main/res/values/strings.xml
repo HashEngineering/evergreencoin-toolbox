@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EverGreenCoin</string>
+    <string name="button_web_wallet">Web Wallet</string>
+    <string name="button_proof_of_environment_submit">PoE Submit</string>
+    <string name="button_proof_of_environment_scoring">PoE Scoring</string>
+    <string name="button_reward_center">Reward Center</string>
+</resources>
