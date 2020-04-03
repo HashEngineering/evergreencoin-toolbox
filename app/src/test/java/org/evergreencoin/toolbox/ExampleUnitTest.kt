@@ -1,4 +1,4 @@
-package org.evergreencoin.portal
+package org.evergreencoin.toolbox
 
 import org.junit.Test
 

@@ -1,4 +1,4 @@
-package org.evergreencoin.portal
+package org.evergreencoin.toolbox
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
